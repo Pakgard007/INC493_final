@@ -1,0 +1,36 @@
+[3.627s] Invoking command in '/home/orin_nano/microros_ws/firmware/dev_ws/ament/ament_lint/ament_lint': PYTHONPATH=/home/orin_nano/microros_ws/firmware/dev_ws/build/ament_lint/prefix_override:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.8/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_lint build --build-base /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_lint/build install --record /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_lint/install.log --single-version-externally-managed
+[4.031s] running egg_info
+[4.032s] creating ../../../build/ament_lint/ament_lint.egg-info
+[4.033s] writing ../../../build/ament_lint/ament_lint.egg-info/PKG-INFO
+[4.033s] writing dependency_links to ../../../build/ament_lint/ament_lint.egg-info/dependency_links.txt
+[4.034s] writing entry points to ../../../build/ament_lint/ament_lint.egg-info/entry_points.txt
+[4.034s] writing requirements to ../../../build/ament_lint/ament_lint.egg-info/requires.txt
+[4.034s] writing top-level names to ../../../build/ament_lint/ament_lint.egg-info/top_level.txt
+[4.037s] writing manifest file '../../../build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[4.104s] reading manifest file '../../../build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[4.105s] writing manifest file '../../../build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[4.105s] running build
+[4.106s] running build_py
+[4.106s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_lint/build
+[4.106s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_lint/build/lib
+[4.107s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint
+[4.107s] copying ament_lint/pytest_marker.py -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint
+[4.107s] copying ament_lint/__init__.py -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint
+[4.108s] running install
+[4.109s] running install_lib
+[4.111s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.8/site-packages/ament_lint
+[4.112s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint/pytest_marker.py -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.8/site-packages/ament_lint
+[4.112s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint/__init__.py -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.8/site-packages/ament_lint
+[4.113s] byte-compiling /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.8/site-packages/ament_lint/pytest_marker.py to pytest_marker.cpython-38.pyc
+[4.115s] byte-compiling /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.8/site-packages/ament_lint/__init__.py to __init__.cpython-38.pyc
+[4.115s] running install_data
+[4.117s] copying package.xml -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint/share/ament_lint
+[4.118s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint/share/ament_index
+[4.118s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint/share/ament_index/resource_index
+[4.118s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint/share/ament_index/resource_index/packages
+[4.118s] copying resource/ament_lint -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint/share/ament_index/resource_index/packages
+[4.119s] running install_egg_info
+[4.121s] Copying ../../../build/ament_lint/ament_lint.egg-info to /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.8/site-packages/ament_lint-0.9.8-py3.8.egg-info
+[4.123s] running install_scripts
+[4.164s] writing list of installed files to '/home/orin_nano/microros_ws/firmware/dev_ws/build/ament_lint/install.log'
+[4.702s] Invoked command in '/home/orin_nano/microros_ws/firmware/dev_ws/ament/ament_lint/ament_lint' returned '0': PYTHONPATH=/home/orin_nano/microros_ws/firmware/dev_ws/build/ament_lint/prefix_override:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.8/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_lint build --build-base /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_lint/build install --record /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_lint/install.log --single-version-externally-managed

@@ -1,0 +1,41 @@
+[2.967s] Invoking command in '/home/orin_nano/microros_ws/firmware/dev_ws/ament/ament_lint/ament_clang_format': AMENT_PREFIX_PATH=/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_copyright:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_pep257:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_flake8:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint PATH=/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_copyright/bin:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_pep257/bin:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/orin_nano/microros_ws/firmware/dev_ws/build/ament_clang_format/prefix_override:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_clang_format/lib/python3.8/site-packages:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_copyright/lib/python3.8/site-packages:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.8/site-packages:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.8/site-packages:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.8/site-packages /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_clang_format build --build-base /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_clang_format/build install --record /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_clang_format/install.log --single-version-externally-managed
+[3.354s] running egg_info
+[3.356s] creating ../../../build/ament_clang_format/ament_clang_format.egg-info
+[3.357s] writing ../../../build/ament_clang_format/ament_clang_format.egg-info/PKG-INFO
+[3.357s] writing dependency_links to ../../../build/ament_clang_format/ament_clang_format.egg-info/dependency_links.txt
+[3.359s] writing entry points to ../../../build/ament_clang_format/ament_clang_format.egg-info/entry_points.txt
+[3.359s] writing requirements to ../../../build/ament_clang_format/ament_clang_format.egg-info/requires.txt
+[3.360s] writing top-level names to ../../../build/ament_clang_format/ament_clang_format.egg-info/top_level.txt
+[3.361s] writing manifest file '../../../build/ament_clang_format/ament_clang_format.egg-info/SOURCES.txt'
+[3.422s] reading manifest file '../../../build/ament_clang_format/ament_clang_format.egg-info/SOURCES.txt'
+[3.424s] writing manifest file '../../../build/ament_clang_format/ament_clang_format.egg-info/SOURCES.txt'
+[3.424s] running build
+[3.425s] running build_py
+[3.425s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_clang_format/build
+[3.425s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_clang_format/build/lib
+[3.427s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_clang_format/build/lib/ament_clang_format
+[3.427s] copying ament_clang_format/main.py -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_clang_format/build/lib/ament_clang_format
+[3.429s] copying ament_clang_format/__init__.py -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_clang_format/build/lib/ament_clang_format
+[3.430s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_clang_format/build/lib/ament_clang_format/configuration
+[3.430s] copying ament_clang_format/configuration/.clang-format -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_clang_format/build/lib/ament_clang_format/configuration
+[3.432s] running install
+[3.432s] running install_lib
+[3.433s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_clang_format/lib/python3.8/site-packages/ament_clang_format
+[3.433s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_clang_format/lib/python3.8/site-packages/ament_clang_format/configuration
+[3.434s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_clang_format/build/lib/ament_clang_format/configuration/.clang-format -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_clang_format/lib/python3.8/site-packages/ament_clang_format/configuration
+[3.435s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_clang_format/build/lib/ament_clang_format/main.py -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_clang_format/lib/python3.8/site-packages/ament_clang_format
+[3.436s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_clang_format/build/lib/ament_clang_format/__init__.py -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_clang_format/lib/python3.8/site-packages/ament_clang_format
+[3.437s] byte-compiling /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_clang_format/lib/python3.8/site-packages/ament_clang_format/main.py to main.cpython-38.pyc
+[3.439s] byte-compiling /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_clang_format/lib/python3.8/site-packages/ament_clang_format/__init__.py to __init__.cpython-38.pyc
+[3.439s] running install_data
+[3.440s] copying package.xml -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_clang_format/share/ament_clang_format
+[3.441s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_clang_format/share/ament_index
+[3.442s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_clang_format/share/ament_index/resource_index
+[3.443s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_clang_format/share/ament_index/resource_index/packages
+[3.444s] copying resource/ament_clang_format -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_clang_format/share/ament_index/resource_index/packages
+[3.445s] running install_egg_info
+[3.446s] Copying ../../../build/ament_clang_format/ament_clang_format.egg-info to /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_clang_format/lib/python3.8/site-packages/ament_clang_format-0.9.8-py3.8.egg-info
+[3.448s] running install_scripts
+[3.484s] Installing ament_clang_format script to /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_clang_format/bin
+[3.486s] writing list of installed files to '/home/orin_nano/microros_ws/firmware/dev_ws/build/ament_clang_format/install.log'
+[4.634s] Invoked command in '/home/orin_nano/microros_ws/firmware/dev_ws/ament/ament_lint/ament_clang_format' returned '0': AMENT_PREFIX_PATH=/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_copyright:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_pep257:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_flake8:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint PATH=/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_copyright/bin:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_pep257/bin:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/orin_nano/microros_ws/firmware/dev_ws/build/ament_clang_format/prefix_override:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_clang_format/lib/python3.8/site-packages:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_copyright/lib/python3.8/site-packages:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.8/site-packages:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.8/site-packages:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.8/site-packages /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_clang_format build --build-base /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_clang_format/build install --record /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_clang_format/install.log --single-version-externally-managed

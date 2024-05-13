@@ -1,0 +1,41 @@
+[3.335s] Invoking command in '/home/orin_nano/microros_ws/firmware/dev_ws/ament/ament_lint/ament_uncrustify': AMENT_PREFIX_PATH=/home/orin_nano/microros_ws/firmware/dev_ws/install/uncrustify_vendor CMAKE_PREFIX_PATH=/home/orin_nano/microros_ws/firmware/dev_ws/install/uncrustify_vendor PYTHONPATH=/home/orin_nano/microros_ws/firmware/dev_ws/build/ament_uncrustify/prefix_override:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_uncrustify build --build-base /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_uncrustify/build install --record /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_uncrustify/install.log --single-version-externally-managed
+[3.739s] running egg_info
+[3.740s] creating ../../../build/ament_uncrustify/ament_uncrustify.egg-info
+[3.741s] writing ../../../build/ament_uncrustify/ament_uncrustify.egg-info/PKG-INFO
+[3.742s] writing dependency_links to ../../../build/ament_uncrustify/ament_uncrustify.egg-info/dependency_links.txt
+[3.744s] writing entry points to ../../../build/ament_uncrustify/ament_uncrustify.egg-info/entry_points.txt
+[3.745s] writing requirements to ../../../build/ament_uncrustify/ament_uncrustify.egg-info/requires.txt
+[3.747s] writing top-level names to ../../../build/ament_uncrustify/ament_uncrustify.egg-info/top_level.txt
+[3.747s] writing manifest file '../../../build/ament_uncrustify/ament_uncrustify.egg-info/SOURCES.txt'
+[3.811s] reading manifest file '../../../build/ament_uncrustify/ament_uncrustify.egg-info/SOURCES.txt'
+[3.812s] writing manifest file '../../../build/ament_uncrustify/ament_uncrustify.egg-info/SOURCES.txt'
+[3.814s] running build
+[3.814s] running build_py
+[3.816s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_uncrustify/build
+[3.817s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_uncrustify/build/lib
+[3.817s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_uncrustify/build/lib/ament_uncrustify
+[3.818s] copying ament_uncrustify/main.py -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_uncrustify/build/lib/ament_uncrustify
+[3.819s] copying ament_uncrustify/__init__.py -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_uncrustify/build/lib/ament_uncrustify
+[3.819s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_uncrustify/build/lib/ament_uncrustify/configuration
+[3.820s] copying ament_uncrustify/configuration/ament_code_style.cfg -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_uncrustify/build/lib/ament_uncrustify/configuration
+[3.820s] running install
+[3.821s] running install_lib
+[3.821s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages/ament_uncrustify
+[3.822s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages/ament_uncrustify/configuration
+[3.822s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_uncrustify/build/lib/ament_uncrustify/configuration/ament_code_style.cfg -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages/ament_uncrustify/configuration
+[3.824s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_uncrustify/build/lib/ament_uncrustify/main.py -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages/ament_uncrustify
+[3.824s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_uncrustify/build/lib/ament_uncrustify/__init__.py -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages/ament_uncrustify
+[3.824s] byte-compiling /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages/ament_uncrustify/main.py to main.cpython-38.pyc
+[3.829s] byte-compiling /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages/ament_uncrustify/__init__.py to __init__.cpython-38.pyc
+[3.830s] running install_data
+[3.830s] copying package.xml -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_uncrustify/share/ament_uncrustify
+[3.830s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_uncrustify/share/ament_index
+[3.831s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_uncrustify/share/ament_index/resource_index
+[3.831s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_uncrustify/share/ament_index/resource_index/packages
+[3.831s] copying resource/ament_uncrustify -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_uncrustify/share/ament_index/resource_index/packages
+[3.831s] running install_egg_info
+[3.832s] Copying ../../../build/ament_uncrustify/ament_uncrustify.egg-info to /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages/ament_uncrustify-0.9.8-py3.8.egg-info
+[3.835s] running install_scripts
+[3.874s] Installing ament_uncrustify script to /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_uncrustify/bin
+[3.875s] writing list of installed files to '/home/orin_nano/microros_ws/firmware/dev_ws/build/ament_uncrustify/install.log'
+[4.399s] Invoked command in '/home/orin_nano/microros_ws/firmware/dev_ws/ament/ament_lint/ament_uncrustify' returned '0': AMENT_PREFIX_PATH=/home/orin_nano/microros_ws/firmware/dev_ws/install/uncrustify_vendor CMAKE_PREFIX_PATH=/home/orin_nano/microros_ws/firmware/dev_ws/install/uncrustify_vendor PYTHONPATH=/home/orin_nano/microros_ws/firmware/dev_ws/build/ament_uncrustify/prefix_override:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_uncrustify build --build-base /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_uncrustify/build install --record /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_uncrustify/install.log --single-version-externally-managed

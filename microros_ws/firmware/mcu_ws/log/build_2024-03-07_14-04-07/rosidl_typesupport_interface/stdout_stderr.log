@@ -1,0 +1,10 @@
+Not searching for unused variables given on the command line.
+-- Configuring incomplete, errors occurred!
+CMake Error at /usr/share/cmake-3.16/Modules/CMakeDetermineSystem.cmake:99 (message):
+  Could not find toolchain file:
+  /home/orin_nano/Arduino/libraries/micro_ros_arduino/extras/library_generation/teensy32_toolchain.cmake
+Call Stack (most recent call first):
+  CMakeLists.txt:3 (project)
+
+
+CMake Error: CMake was unable to find a build program corresponding to "Unix Makefiles".  CMAKE_MAKE_PROGRAM is not set.  You probably need to select a different build tool.

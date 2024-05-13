@@ -1,0 +1,37 @@
+[3.369s] Invoking command in '/home/orin_nano/microros_ws/firmware/dev_ws/ament/ament_lint/ament_cppcheck': PYTHONPATH=/home/orin_nano/microros_ws/firmware/dev_ws/build/ament_cppcheck/prefix_override:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.8/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_cppcheck build --build-base /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_cppcheck/build install --record /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_cppcheck/install.log --single-version-externally-managed
+[3.764s] running egg_info
+[3.765s] creating ../../../build/ament_cppcheck/ament_cppcheck.egg-info
+[3.766s] writing ../../../build/ament_cppcheck/ament_cppcheck.egg-info/PKG-INFO
+[3.766s] writing dependency_links to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/dependency_links.txt
+[3.766s] writing entry points to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/entry_points.txt
+[3.767s] writing requirements to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/requires.txt
+[3.767s] writing top-level names to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/top_level.txt
+[3.770s] writing manifest file '../../../build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[3.833s] reading manifest file '../../../build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[3.834s] writing manifest file '../../../build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[3.834s] running build
+[3.835s] running build_py
+[3.835s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_cppcheck/build
+[3.835s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib
+[3.836s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck
+[3.836s] copying ament_cppcheck/main.py -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck
+[3.837s] copying ament_cppcheck/__init__.py -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck
+[3.837s] running install
+[3.838s] running install_lib
+[3.840s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.8/site-packages/ament_cppcheck
+[3.840s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck/main.py -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.8/site-packages/ament_cppcheck
+[3.840s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck/__init__.py -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.8/site-packages/ament_cppcheck
+[3.841s] byte-compiling /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.8/site-packages/ament_cppcheck/main.py to main.cpython-38.pyc
+[3.847s] byte-compiling /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.8/site-packages/ament_cppcheck/__init__.py to __init__.cpython-38.pyc
+[3.847s] running install_data
+[3.848s] copying package.xml -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_cppcheck/share/ament_cppcheck
+[3.849s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_cppcheck/share/ament_index
+[3.849s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_cppcheck/share/ament_index/resource_index
+[3.849s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_cppcheck/share/ament_index/resource_index/packages
+[3.849s] copying resource/ament_cppcheck -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_cppcheck/share/ament_index/resource_index/packages
+[3.850s] running install_egg_info
+[3.853s] Copying ../../../build/ament_cppcheck/ament_cppcheck.egg-info to /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.8/site-packages/ament_cppcheck-0.9.8-py3.8.egg-info
+[3.855s] running install_scripts
+[3.894s] Installing ament_cppcheck script to /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_cppcheck/bin
+[3.895s] writing list of installed files to '/home/orin_nano/microros_ws/firmware/dev_ws/build/ament_cppcheck/install.log'
+[4.762s] Invoked command in '/home/orin_nano/microros_ws/firmware/dev_ws/ament/ament_lint/ament_cppcheck' returned '0': PYTHONPATH=/home/orin_nano/microros_ws/firmware/dev_ws/build/ament_cppcheck/prefix_override:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.8/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_cppcheck build --build-base /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_cppcheck/build install --record /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_cppcheck/install.log --single-version-externally-managed

@@ -1,0 +1,40 @@
+[3.747s] Invoking command in '/home/orin_nano/microros_ws/firmware/dev_ws/ament/ament_lint/ament_xmllint': AMENT_PREFIX_PATH=/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_copyright:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_pep257:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_flake8:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint PATH=/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_copyright/bin:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_pep257/bin:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/orin_nano/microros_ws/firmware/dev_ws/build/ament_xmllint/prefix_override:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_xmllint/lib/python3.8/site-packages:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_copyright/lib/python3.8/site-packages:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.8/site-packages:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.8/site-packages:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.8/site-packages /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_xmllint build --build-base /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_xmllint/build install --record /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_xmllint/install.log --single-version-externally-managed
+[4.139s] running egg_info
+[4.140s] creating ../../../build/ament_xmllint/ament_xmllint.egg-info
+[4.141s] writing ../../../build/ament_xmllint/ament_xmllint.egg-info/PKG-INFO
+[4.142s] writing dependency_links to ../../../build/ament_xmllint/ament_xmllint.egg-info/dependency_links.txt
+[4.144s] writing entry points to ../../../build/ament_xmllint/ament_xmllint.egg-info/entry_points.txt
+[4.145s] writing requirements to ../../../build/ament_xmllint/ament_xmllint.egg-info/requires.txt
+[4.146s] writing top-level names to ../../../build/ament_xmllint/ament_xmllint.egg-info/top_level.txt
+[4.147s] writing manifest file '../../../build/ament_xmllint/ament_xmllint.egg-info/SOURCES.txt'
+[4.211s] reading manifest file '../../../build/ament_xmllint/ament_xmllint.egg-info/SOURCES.txt'
+[4.212s] writing manifest file '../../../build/ament_xmllint/ament_xmllint.egg-info/SOURCES.txt'
+[4.212s] running build
+[4.213s] running build_py
+[4.214s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_xmllint/build
+[4.214s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_xmllint/build/lib
+[4.214s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_xmllint/build/lib/ament_xmllint
+[4.214s] copying ament_xmllint/pytest_marker.py -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_xmllint/build/lib/ament_xmllint
+[4.215s] copying ament_xmllint/main.py -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_xmllint/build/lib/ament_xmllint
+[4.215s] copying ament_xmllint/__init__.py -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_xmllint/build/lib/ament_xmllint
+[4.215s] running install
+[4.215s] running install_lib
+[4.218s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_xmllint/lib/python3.8/site-packages/ament_xmllint
+[4.219s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_xmllint/build/lib/ament_xmllint/pytest_marker.py -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_xmllint/lib/python3.8/site-packages/ament_xmllint
+[4.219s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_xmllint/build/lib/ament_xmllint/main.py -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_xmllint/lib/python3.8/site-packages/ament_xmllint
+[4.221s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_xmllint/build/lib/ament_xmllint/__init__.py -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_xmllint/lib/python3.8/site-packages/ament_xmllint
+[4.222s] byte-compiling /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_xmllint/lib/python3.8/site-packages/ament_xmllint/pytest_marker.py to pytest_marker.cpython-38.pyc
+[4.222s] byte-compiling /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_xmllint/lib/python3.8/site-packages/ament_xmllint/main.py to main.cpython-38.pyc
+[4.225s] byte-compiling /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_xmllint/lib/python3.8/site-packages/ament_xmllint/__init__.py to __init__.cpython-38.pyc
+[4.225s] running install_data
+[4.227s] copying package.xml -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_xmllint/share/ament_xmllint
+[4.228s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_xmllint/share/ament_index
+[4.229s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_xmllint/share/ament_index/resource_index
+[4.229s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_xmllint/share/ament_index/resource_index/packages
+[4.231s] copying resource/ament_xmllint -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_xmllint/share/ament_index/resource_index/packages
+[4.232s] running install_egg_info
+[4.232s] Copying ../../../build/ament_xmllint/ament_xmllint.egg-info to /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_xmllint/lib/python3.8/site-packages/ament_xmllint-0.9.8-py3.8.egg-info
+[4.233s] running install_scripts
+[4.271s] Installing ament_xmllint script to /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_xmllint/bin
+[4.271s] writing list of installed files to '/home/orin_nano/microros_ws/firmware/dev_ws/build/ament_xmllint/install.log'
+[4.783s] Invoked command in '/home/orin_nano/microros_ws/firmware/dev_ws/ament/ament_lint/ament_xmllint' returned '0': AMENT_PREFIX_PATH=/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_copyright:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_pep257:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_flake8:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint PATH=/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_copyright/bin:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_pep257/bin:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/orin_nano/microros_ws/firmware/dev_ws/build/ament_xmllint/prefix_override:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_xmllint/lib/python3.8/site-packages:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_copyright/lib/python3.8/site-packages:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.8/site-packages:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.8/site-packages:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.8/site-packages /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_xmllint build --build-base /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_xmllint/build install --record /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_xmllint/install.log --single-version-externally-managed

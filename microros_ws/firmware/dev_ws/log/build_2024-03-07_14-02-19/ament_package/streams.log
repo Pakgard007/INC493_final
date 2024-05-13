@@ -1,0 +1,100 @@
+[3.788s] Invoking command in '/home/orin_nano/microros_ws/firmware/dev_ws/ament/ament_package': PYTHONPATH=/home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/prefix_override:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/ament_package build --build-base /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build install --record /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/install.log --single-version-externally-managed
+[4.304s] running egg_info
+[4.305s] creating ../../build/ament_package/ament_package.egg-info
+[4.305s] writing ../../build/ament_package/ament_package.egg-info/PKG-INFO
+[4.307s] writing dependency_links to ../../build/ament_package/ament_package.egg-info/dependency_links.txt
+[4.307s] writing top-level names to ../../build/ament_package/ament_package.egg-info/top_level.txt
+[4.309s] writing manifest file '../../build/ament_package/ament_package.egg-info/SOURCES.txt'
+[4.378s] reading manifest file '../../build/ament_package/ament_package.egg-info/SOURCES.txt'
+[4.380s] writing manifest file '../../build/ament_package/ament_package.egg-info/SOURCES.txt'
+[4.381s] running build
+[4.383s] running build_py
+[4.383s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build
+[4.383s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib
+[4.383s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package
+[4.390s] copying ament_package/__init__.py -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package
+[4.390s] copying ament_package/templates.py -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package
+[4.393s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template
+[4.393s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[4.393s] copying ament_package/template/environment_hook/pythonpath.bat.in -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[4.394s] copying ament_package/template/environment_hook/ament_prefix_path.bat -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[4.394s] copying ament_package/template/environment_hook/pkg_config_path.sh -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[4.394s] copying ament_package/template/environment_hook/path.sh -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[4.394s] copying ament_package/template/environment_hook/library_path.sh -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[4.394s] copying ament_package/template/environment_hook/pythonpath.sh.in -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[4.394s] copying ament_package/template/environment_hook/pkg_config_path.bat -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[4.396s] copying ament_package/template/environment_hook/path.bat -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[4.396s] copying ament_package/template/environment_hook/ament_prefix_path.sh -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[4.397s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level
+[4.398s] copying ament_package/template/isolated_prefix_level/local_setup.zsh -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level
+[4.398s] copying ament_package/template/isolated_prefix_level/local_setup.bash -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level
+[4.399s] copying ament_package/template/isolated_prefix_level/local_setup.sh.in -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level
+[4.399s] copying ament_package/template/isolated_prefix_level/local_setup.bat.in -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level
+[4.400s] copying ament_package/template/isolated_prefix_level/_order_isolated_packages.py -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level
+[4.401s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/package_level
+[4.401s] copying ament_package/template/package_level/local_setup.sh.in -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/package_level
+[4.402s] copying ament_package/template/package_level/local_setup.bat.in -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/package_level
+[4.402s] copying ament_package/template/package_level/local_setup.bash.in -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/package_level
+[4.403s] copying ament_package/template/package_level/local_setup.zsh.in -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/package_level
+[4.403s] creating /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[4.403s] copying ament_package/template/prefix_level/local_setup.zsh -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[4.403s] copying ament_package/template/prefix_level/setup.bash -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[4.404s] copying ament_package/template/prefix_level/local_setup.bash -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[4.404s] copying ament_package/template/prefix_level/local_setup.sh.in -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[4.408s] copying ament_package/template/prefix_level/local_setup.bat.in -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[4.409s] copying ament_package/template/prefix_level/_local_setup_util.py -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[4.410s] copying ament_package/template/prefix_level/setup.sh.in -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[4.411s] copying ament_package/template/prefix_level/setup.zsh -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[4.412s] copying ament_package/template/prefix_level/setup.bat.in -> /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[4.413s] running install
+[4.414s] running install_lib
+[4.414s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package
+[4.415s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template
+[4.416s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/isolated_prefix_level
+[4.417s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level/local_setup.zsh -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/isolated_prefix_level
+[4.418s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level/local_setup.bash -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/isolated_prefix_level
+[4.421s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level/local_setup.sh.in -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/isolated_prefix_level
+[4.423s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level/local_setup.bat.in -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/isolated_prefix_level
+[4.424s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level/_order_isolated_packages.py -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/isolated_prefix_level
+[4.426s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/package_level
+[4.427s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/package_level/local_setup.sh.in -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/package_level
+[4.428s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/package_level/local_setup.bat.in -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/package_level
+[4.429s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/package_level/local_setup.bash.in -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/package_level
+[4.430s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/package_level/local_setup.zsh.in -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/package_level
+[4.432s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[4.433s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level/local_setup.zsh -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[4.435s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level/setup.bash -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[4.436s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level/local_setup.bash -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[4.437s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level/local_setup.sh.in -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[4.438s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level/local_setup.bat.in -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[4.440s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level/_local_setup_util.py -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[4.441s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level/setup.sh.in -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[4.442s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level/setup.zsh -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[4.443s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/prefix_level/setup.bat.in -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[4.445s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[4.445s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook/pythonpath.bat.in -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[4.446s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook/ament_prefix_path.bat -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[4.447s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook/pkg_config_path.sh -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[4.448s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook/path.sh -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[4.449s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook/library_path.sh -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[4.449s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook/pythonpath.sh.in -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[4.450s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook/pkg_config_path.bat -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[4.451s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook/path.bat -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[4.451s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/template/environment_hook/ament_prefix_path.sh -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[4.452s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/__init__.py -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package
+[4.453s] copying /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build/lib/ament_package/templates.py -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package
+[4.453s] byte-compiling /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/isolated_prefix_level/_order_isolated_packages.py to _order_isolated_packages.cpython-38.pyc
+[4.454s] byte-compiling /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level/_local_setup_util.py to _local_setup_util.cpython-38.pyc
+[4.455s] byte-compiling /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/__init__.py to __init__.cpython-38.pyc
+[4.455s] byte-compiling /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package/templates.py to templates.cpython-38.pyc
+[4.456s] running install_data
+[4.458s] copying package.xml -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/share/ament_package
+[4.459s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/share/ament_index
+[4.459s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/share/ament_index/resource_index
+[4.460s] creating /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/share/ament_index/resource_index/packages
+[4.461s] copying resource/ament_package -> /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/share/ament_index/resource_index/packages
+[4.462s] running install_egg_info
+[4.463s] Copying ../../build/ament_package/ament_package.egg-info to /home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages/ament_package-0.9.5-py3.8.egg-info
+[4.464s] running install_scripts
+[4.465s] writing list of installed files to '/home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/install.log'
+[5.044s] Invoked command in '/home/orin_nano/microros_ws/firmware/dev_ws/ament/ament_package' returned '0': PYTHONPATH=/home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/prefix_override:/home/orin_nano/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.8/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/ament_package build --build-base /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/build install --record /home/orin_nano/microros_ws/firmware/dev_ws/build/ament_package/install.log --single-version-externally-managed

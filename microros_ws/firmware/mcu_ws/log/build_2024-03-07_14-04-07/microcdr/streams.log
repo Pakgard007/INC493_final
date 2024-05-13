@@ -1,0 +1,12 @@
+[0.687s] Invoking command in '/home/orin_nano/microros_ws/firmware/mcu_ws/build/microcdr': /usr/bin/cmake /home/orin_nano/microros_ws/firmware/mcu_ws/eProsima/Micro-CDR --no-warn-unused-cli -DCMAKE_POSITION_INDEPENDENT_CODE:BOOL=OFF -DTHIRDPARTY=ON -DBUILD_SHARED_LIBS=OFF -DBUILD_TESTING=OFF -DCMAKE_BUILD_TYPE=Release -DCMAKE_TOOLCHAIN_FILE=/home/orin_nano/Arduino/libraries/micro_ros_arduino/extras/library_generation/teensy32_toolchain.cmake -DCMAKE_VERBOSE_MAKEFILE=ON -DUCDR_ISOLATED_INSTALL=OFF -DCMAKE_INSTALL_PREFIX=/home/orin_nano/microros_ws/firmware/mcu_ws/install
+[0.741s] CMake Error at /usr/share/cmake-3.16/Modules/CMakeDetermineSystem.cmake:99 (message):
+[0.742s]   Could not find toolchain file:
+[0.743s]   /home/orin_nano/Arduino/libraries/micro_ros_arduino/extras/library_generation/teensy32_toolchain.cmake
+[0.747s] Call Stack (most recent call first):
+[0.748s]   CMakeLists.txt:53 (project)
+[0.748s] 
+[0.749s] 
+[0.749s] CMake Error: CMake was unable to find a build program corresponding to "Unix Makefiles".  CMAKE_MAKE_PROGRAM is not set.  You probably need to select a different build tool.
+[0.750s] Not searching for unused variables given on the command line.
+[0.750s] -- Configuring incomplete, errors occurred!
+[0.759s] Invoked command in '/home/orin_nano/microros_ws/firmware/mcu_ws/build/microcdr' returned '1': /usr/bin/cmake /home/orin_nano/microros_ws/firmware/mcu_ws/eProsima/Micro-CDR --no-warn-unused-cli -DCMAKE_POSITION_INDEPENDENT_CODE:BOOL=OFF -DTHIRDPARTY=ON -DBUILD_SHARED_LIBS=OFF -DBUILD_TESTING=OFF -DCMAKE_BUILD_TYPE=Release -DCMAKE_TOOLCHAIN_FILE=/home/orin_nano/Arduino/libraries/micro_ros_arduino/extras/library_generation/teensy32_toolchain.cmake -DCMAKE_VERBOSE_MAKEFILE=ON -DUCDR_ISOLATED_INSTALL=OFF -DCMAKE_INSTALL_PREFIX=/home/orin_nano/microros_ws/firmware/mcu_ws/install
