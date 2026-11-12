@@ -20,7 +20,7 @@ and **Arduino micro-ROS** nodes streaming IMU and wheel-encoder data.
 | Path | Description |
 |---|---|
 | `Rccar_ws/src/f1_test/` | Main driving node: joystick manual mode + LiDAR-based autonomous mode |
-| `Rccar_ws/src/combine_pkg/` | Draft launch to start VESC driver + joystick together (`launch/setup.py` is unfinished — has syntax errors) |
+| `Rccar_ws/src/combine_pkg/` | `combine.launch.py` — starts the VESC driver and joystick together |
 | `Arduino/Allnode/` | micro-ROS node: ICM-20948 IMU (DMP) + yaw + encoder RPM in one sketch |
 | `Arduino/imu_uros/`, `Arduino/IMU/` | micro-ROS IMU publisher variants |
 | `Arduino/encoder*/` | Wheel encoder / RPM sketches |
@@ -56,9 +56,8 @@ ros2 run micro_ros_agent micro_ros_agent serial --dev /dev/ttyACM0
 
 # 2. Car drivers and joystick
 cd Rccar_ws && colcon build && source install/setup.bash
-ros2 launch vesc_driver vesc_driver_node.launch.py
-ros2 launch urg_node2 urg_node2.launch.py
-ros2 run joy joy_node
+ros2 launch combine_pkg combine.launch.py        # VESC driver + joystick
+ros2 launch urg_node2 urg_node2.launch.py         # Hokuyo LiDAR -> /scan
 
 # 3. Driving node
 ros2 run f1_test f1_test_lidar
