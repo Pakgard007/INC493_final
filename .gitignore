@@ -1,1 +1,6 @@
 node_modules/
+# colcon build outputs
+build/
+install/
+log/
+__pycache__/
